@@ -1,0 +1,10 @@
+Боты для Telegram "Quess city", "lipetsk_Elets", "Voronesh_Donskoe", "Kiev_Minsk"
+Возможности: простое общение с пользователем  
+Особенности: работает внутри приложения "Telegram", 
+начало беседы осуществляется с помощью кнопки /start
+
+Токены ботов
+5160177317:AAE10XVzZpo1d-JhkBtTTcrQlKMfQUHuRi0
+5381495044:AAFkTlcFQdTDKLsMb0ITJahT8jktsR2h7GU
+5275373837:AAESq6Nb5iCkLap0_3zVFoVWGY8_-jVToBY
+5329504751:AAEKcRi2sCsdLjbZKMwoFLGJIOEPNFS2i9Y
